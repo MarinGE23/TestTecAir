@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
-//TEST
+//TEST2
 const routes: Routes = [];
 
 @NgModule({
